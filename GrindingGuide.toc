@@ -1,0 +1,7 @@
+## Interface: 11306
+## Title: GrindingGuide
+## Notes: Shows you what level mobs to grind.
+## Author: AaronSanders
+## Version: 0.0.1
+
+GrindingGuide.lua
